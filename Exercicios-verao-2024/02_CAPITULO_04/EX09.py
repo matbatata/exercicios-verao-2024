@@ -1,9 +1,7 @@
-n = int(input("digite um numero: "))
-i = 0 
-if n<0:
-    print("não aceitamos numeros negativos")
+a = int(input("digite seu salario: "))
+if 400<1200:
+    print("emprestimo não concedido")
+elif 1200>400:
+    print("emprestimo concedido")
 else:
-    while n <= i:   
-        print(i)
-        i+=1
-    print("Fim!")
+    print("salário negado")

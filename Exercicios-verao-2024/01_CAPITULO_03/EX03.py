@@ -1,5 +1,6 @@
-a = int(input("digite um número: "))
-b = int(input("digite mais um número: "))
-c = int(input("digite o ultimo número:"))
-soma = a+b
-print(soma+c)
+n = 5
+i = 0
+
+while i<=n:
+    print(i*3)
+    i+=1

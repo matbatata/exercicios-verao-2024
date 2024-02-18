@@ -1,7 +1,4 @@
-a = int(input("digite seu salario: "))
-if 400<1200:
-    print("emprestimo não concedido")
-elif 1200>400:
-    print("emprestimo concedido")
-else:
-    print("salário negado")
+reais = float(input("Informe a quantidade de reais para conversão: US$ "))
+contaçao = float(input ("Informe o valor da cotação do reais: US$ "))
+converçao = float(input("A quantidade de real convertido em dolar é: US$ ",))
+print (reais*contaçao)
