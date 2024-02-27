@@ -10,3 +10,6 @@ elif a<14:
     print("você se encaixa no juvenil B")
 if a>16:
     print("você se encaixa no sênior ")
+
+# é simples de corrigir
+# dica: use <, <=, >=, > <-------- USAR MAIS DE UMA VEZ
