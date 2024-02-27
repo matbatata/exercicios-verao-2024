@@ -3,3 +3,6 @@ if peso>80:
     print("acima do peso")
 elif peso<80:
     print("peso normal")
+
+# corrigir o caso 80kg
+# números negativos ... peso negativo?
