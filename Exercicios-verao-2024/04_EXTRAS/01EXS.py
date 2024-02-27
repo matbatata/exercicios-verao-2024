@@ -1,4 +1,4 @@
-ing = float(input("Digite a nota de Ingles: "))
+ing = float(input("Digite a nota de Inglês: "))
 mat = float(input("Digite a nota de Matemática: "))
 por = float(input("Digite a nota de Português: "))
 
@@ -8,7 +8,8 @@ print ("A media foi: ", media)
 if media >= 7:
     print ("aprovado")
 
-
 else:
-    media < 7
-print ("reprovado")
+    print ("reprovado")
+
+# parabéns 
+# else não precisa de condição
