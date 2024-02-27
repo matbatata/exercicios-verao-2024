@@ -5,3 +5,5 @@ if resto == 0:
     print("o numero é par!")
 else:
     print("o numero é impar!")
+
+# parabéns
