@@ -12,3 +12,4 @@ while i<=n:
     i+=1
 
 
+#perfeito :D
