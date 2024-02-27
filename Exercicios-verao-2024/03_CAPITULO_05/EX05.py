@@ -10,3 +10,7 @@ i = int(input("numero: "))
 j = int(input("numero: "))
 soma = a+b+c+d+e
 print(soma+f+g+h+i+j)
+
+# sem comentários...
+# funciona da pior forma que eu consigo imaginar
+# refazer
