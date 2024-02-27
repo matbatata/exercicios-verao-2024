@@ -1,4 +1,7 @@
 reais = float(input("Informe a quantidade de reais para conversão: US$ "))
-contaçao = float(input ("Informe o valor da cotação do reais: US$ "))
-converçao = float(input("A quantidade de real convertido em dolar é: US$ ",))
+contaçao = 4.93
+
 print (reais*contaçao)
+
+# 1. nao usar 'ç' em codigo
+#corrigido
