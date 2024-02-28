@@ -1,10 +1,8 @@
-soma = 0
-contador = 0 
-while contador < 50:
-    contador+=1
-    soma += contador*2
-print(soma)
+soma = 50
+i = 0
+while i<=soma:
+    print(i)
+    i+=2
 
-# não... 
-# tinha que usar o IF de separar os pares
-# refazer do zero
+# Refiz o exercicio 5 agora esta correto! 
+
