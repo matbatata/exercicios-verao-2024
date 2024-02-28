@@ -8,3 +8,7 @@ if a > 1:
 else:
     print(a < 1,b-c)
 
+# na trave
+# arrumar numeros fora de 0 e 1
+# não usar else, o certo elif
+# boa!
