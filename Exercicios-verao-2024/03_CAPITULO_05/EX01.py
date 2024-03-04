@@ -4,4 +4,4 @@ while n <= i:
     print(i) 
     i+=1 
 
-# Corrigido co sucesso!
+# Corrigido com sucesso!
