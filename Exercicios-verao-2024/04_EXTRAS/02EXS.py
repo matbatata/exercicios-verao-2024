@@ -1,9 +1,8 @@
-n = 10  #deveria ter um int input
+n = 10 
 soma = 0
-while n <= 10:
-     x = int(input("Digite o %d número:"%n))
-     soma += x
-     n += 1
-print("Soma: %d"%, soma)
-
-#mt bom
+contador = 1
+while contador <= 10:
+    x = int(input("Digite um número: "))
+    soma += x
+    contador+=1
+print("Soma: ", soma)
