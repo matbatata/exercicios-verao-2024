@@ -6,3 +6,5 @@ while contador <= 10:
     soma += x
     contador+=1
 print("Soma: ", soma)
+
+#CORRIGIDO
