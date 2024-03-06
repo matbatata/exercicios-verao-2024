@@ -10,5 +10,6 @@ else:
 
 # na trave
 # arrumar numeros fora de 0 e 1
+#faltou usar o IF
 # não usar else, o certo elif
 # boa!
