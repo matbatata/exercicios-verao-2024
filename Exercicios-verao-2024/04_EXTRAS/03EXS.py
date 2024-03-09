@@ -4,7 +4,5 @@ if peso<0:
     print("peso negativo")
 elif peso<=80:
     print("peso normal")
-elif peso>=80:
+elif peso>=80: # essa linha está errada
     print("acima do peso")
-#corrigido com sucesso! 
-#graças ao coach eu consegui fazer o codigo
