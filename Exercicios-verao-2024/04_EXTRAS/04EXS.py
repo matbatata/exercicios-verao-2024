@@ -1,15 +1,17 @@
+#variaveis
 a = int(input("SUB 1 SOMA 2 escolha uma opção: "))
 b = int(input("digite um numero: "))
 c = int(input("digite mais um numero: "))
+#soma e sub para fazer mais e menos
 soma = a+b
 sub = a-b
-if a > 1:
+#if e elif muito importantes nesse codigo
+if a < 0:
+    print("numero negativo")
+elif a <= 1:
+    print(a-b)
+elif a >= 2:
     print(b+c)
-else:
-    print(a < 1,b-c)
 
-# na trave
-# arrumar numeros fora de 0 e 1
-#faltou usar o IF
-# não usar else, o certo elif
-# boa!
+#corrigido
+#muito bom
