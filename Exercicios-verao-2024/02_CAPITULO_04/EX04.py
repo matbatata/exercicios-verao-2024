@@ -1,12 +1,11 @@
-a = int(input("digite seu salario: ")) 
-if 400<1200:
-    print("emprestimo não concedido")
-elif 1200>400:
+salario = float(input("digite seu salario: ")) 
+media = 1500
+porcentagem = salario*(20/100)
+if salario < 0:
+    print("emprestimo negado")
+elif salario>=media:
     print("emprestimo concedido")
-else:
-    print("salário negado")
+elif salario<=media:
+    print("emprestimo negado ")
 
-#não usou 20%
-#não usou o a
-# revisar porcentagem
-#quase lá
+#ai ai em mais um corrigido com sucesso...
