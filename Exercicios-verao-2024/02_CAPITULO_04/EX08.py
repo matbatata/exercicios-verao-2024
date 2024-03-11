@@ -13,3 +13,4 @@ elif a<=16:
     print("você se encaixa no sênior ")
 
 
+# faltam mais condicoes para ficar correto
