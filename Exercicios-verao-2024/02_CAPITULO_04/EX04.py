@@ -8,4 +8,4 @@ elif salario>=media:
 elif salario<=media:
     print("emprestimo negado ")
 
-#ai ai em mais um corrigido com sucesso...
+# Nao precisava usar média... era para usar porcentagem.
