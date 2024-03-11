@@ -1,17 +1,11 @@
 a = int(input("digite sua idade: "))
-if a < 0:
-    print("idade negativa")
-elif a<=8:
-    print("você se encaixa no infantil A")
+if a <= 0:
+    print("idade negada")
 elif a<=9:
-    print("você se encaixa no infantil B")
+    print("juvenil")
 elif a<=10:
-    print("você se encaixa no juvenil A")
-elif a>=14:
-    print("você se encaixa no juvenil B")
-elif a<=16:
-    print("você se encaixa no sênior ")
-elif a>=16:
-    print("você se encaixa no sênior ")
+    print("infantil")
+else:
+    print(a>16,"senior")
 
-# faltam mais condicoes para ficar corretf
+#refis ele e reduzi para uma idade real
