@@ -11,6 +11,7 @@ elif a>=14:
     print("você se encaixa no juvenil B")
 elif a<=16:
     print("você se encaixa no sênior ")
+elif a>=16:
+    print("você se encaixa no sênior ")
 
-
-# faltam mais condicoes para ficar correto
+# faltam mais condicoes para ficar corretf
