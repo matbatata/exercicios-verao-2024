@@ -1,18 +1,23 @@
-#variaveis
-a = int(input("SUB 1 SOMA 2 escolha uma opção: "))
-b = int(input("digite um numero: "))
-c = int(input("digite mais um numero: "))
+print("SUBTRAÇÃO - 1")
+print("SOMA - 2")
 
-soma = a+b
-sub = a-b
+# opcao
+opcao = int(input("Escolha uma opção: "))
 
+if opcao != 2 and opcao != 1:
+    print("Número inválido")
 
-if a < 0: # intenção foi boa, mas eh bom usar o else aqui
-    print("numero negativo")
-elif a <= 1: # corrigir
-    print(a-b)
-elif a >= 2: # corrigir 
-    print(b+c)
+else:
+    #variáveis
+    b = int(input("Digite um número: "))
+    c = int(input("Digite mais um número: "))
 
-# Para pensar... e se na hora que eu colocasse o A, eu colocasse o numero 5 ou 7??
-#O programa rodaria errado
+    soma = b+c
+    sub = b-c
+
+    if opcao == 1: 
+        print(sub)
+    elif opcao == 2: 
+        print(soma)
+
+#corrigido em aula
