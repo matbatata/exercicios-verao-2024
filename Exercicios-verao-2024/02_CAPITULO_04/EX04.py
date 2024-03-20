@@ -6,3 +6,4 @@ if emprestimo > porcentagem:
     print("Empréstimo não concedido")
 else:
     print("Empréstimo concedido")
+        

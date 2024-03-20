@@ -7,6 +7,3 @@ while i < n:
   print(ímpar)
   i = i + 1
   ímpar = ímpar + 2
-
-#corrigido por mim mesmo 
-#perfeito..
