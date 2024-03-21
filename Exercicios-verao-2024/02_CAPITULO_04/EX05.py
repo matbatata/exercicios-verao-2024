@@ -6,3 +6,5 @@ if a < 0:
 else:
     print("RAIZ QUADRADA: ", math.sqrt(a))
     print("AO QUADRADO: ", math.pow(a,2))
+
+# corrigido
