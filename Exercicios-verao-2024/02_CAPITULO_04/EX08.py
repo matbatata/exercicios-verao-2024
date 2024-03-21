@@ -11,3 +11,5 @@ elif 14 <= a <=17:
     print("juvenil B")
 elif a>=18:
     print("Senior")
+
+# corrigido
