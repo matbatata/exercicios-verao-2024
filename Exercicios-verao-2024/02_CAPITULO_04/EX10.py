@@ -16,7 +16,7 @@ z = int(input("Digite um número: "))
 # Apesar de colocar print(resposta) estar certo em alguns casos, eu prefiro que você crie variáveis 
 # Além disso, tente seguir o nome das variáveis do livro... É mais fácil para copiar :P
 
-geometrica = pow(x*y*z, 1/3) 
+geometrica = pow(x*y*z, 1/3) # Esse daqui, eu forcei a barra. Foi mal
 ponderada = (x + 2*y + 3*z)/6 
 harmonica = 1/(1/x + 1/y + 1/z)
 aritmetica = (x+y+z) / 3
