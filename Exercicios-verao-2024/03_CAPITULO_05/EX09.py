@@ -16,4 +16,4 @@ elif n >= 4:
         print(n,"maior que",4)    
 elif n >= 5:
         print(n,"maior que",5)
-    
+# era para usar while e não condiz com o enunciado
