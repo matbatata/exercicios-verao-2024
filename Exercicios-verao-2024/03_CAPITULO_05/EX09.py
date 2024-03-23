@@ -1,27 +1,19 @@
-mes = int(input("digite um numero: "))
-if mes < 0 and mes > 12:
-    print("numero invalido")
-elif mes == 1:
-    print("janeiro")
-elif mes == 2:
-    print("fevereiro")
-elif mes == 3:
-    print("março")
-elif mes == 4:
-    print("abril")
-elif mes == 5:
-    print("maio")
-elif mes == 6:
-    print("junho")
-elif mes == 7: 
-    print("julho")
-elif mes == 8:
-    print("agosto")
-elif mes == 9:
-    print("setembro")
-elif mes == 10:
-    print("outubro")
-elif mes == 11:
-    print("novembro")
-elif mes == 12:
-    print("dezembro")
+contador = 4
+i = 0
+while i <= contador:    
+    n = int(input("digite 5 numeros: "))
+    break
+if n == 0 and n < 0:
+        print("numero invalido")
+    
+elif n >= 1:
+        print(n,"maior que",1)
+elif n >= 2:
+    print(n,"maior que",2)
+elif n >= 3:
+        print(n,"maior que",3)
+elif n >= 4:
+        print(n,"maior que",4)    
+elif n >= 5:
+        print(n,"maior que",5)
+    
