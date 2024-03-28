@@ -1,7 +1,8 @@
-n = 15
-i = 1
+n = 102
+i = 0
 while i<=n:
     print(i)
     i+=3
 
-# não tem lógica
+#No livro pede que seja um contador com a terceira parte ate 100
+
