@@ -1,5 +1,5 @@
 a = int(input("digite sua idade: "))
-if a <= 0 or a > 80:
+if a <= 0 or a > 120:
     print("idade  invalida")
 elif 5 <= a <= 7:
     print("infantil A")
@@ -11,3 +11,5 @@ elif 14 <= a <=17:
     print("juvenil B")
 elif a>=18:
     print("Senior")
+
+#corrigido
