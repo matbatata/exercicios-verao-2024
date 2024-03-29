@@ -6,3 +6,5 @@ while contador <= 9:
         maior = x 
     contador+=1
 print("O maior número e: ",maior)
+
+# corrigido
