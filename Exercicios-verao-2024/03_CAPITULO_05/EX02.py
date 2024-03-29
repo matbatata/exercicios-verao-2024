@@ -5,5 +5,7 @@ i = 0
 
 while i < n: 
   print(ímpar)
-  i = i + 1
-  ímpar = ímpar + 2
+  i += 1
+  ímpar += 2
+
+# corrigido
