@@ -1,9 +1,9 @@
-i = 1
+div = 1
 contador = 1
-x = int(input("digite um número: "))
+x = int(input("Digite um número: "))
 while contador <= x:
     contador+=1
-    if x%i == 0:
-        print(contador)
+    if x%div == 0:
+        print(div)
     contador+=1
-    i+=1        
+    div+=1        
