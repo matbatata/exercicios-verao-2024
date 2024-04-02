@@ -1,17 +1,25 @@
-a = int(input("Digite dos numeros: "))
+a = int(input("Digite dois números: "))
 b = int(input("Digite mais um: "))
+
 print("1:SOMA")
 print("2:SUB")
 print("3:MULT")
 print("4:DIV")
-c = int(input("Escolha uma opcao: "))
-if c > 4 and c > 0:
+
+opcao = int(input("Escolha uma opção: "))
+
+if opcao > 4 and opcao >= 0:
     print("ERRO")
-elif c == 1:
+elif opcao == 1:
     print(a+b)
-elif c == 2:
+elif opcao == 2:
     print(a-b)
-elif c == 3:
+elif opcao == 3:
     print(a*b)
-elif c == 4:
-    print(a/b)
+elif opcao == 4:
+    if b == 0:
+        print("Não existe divisão por zero")
+    else:
+        print(a/b)
+
+# corrigido
