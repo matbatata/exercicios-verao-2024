@@ -1,17 +1,19 @@
-D = int(input("Digite um número: "))
-if D < 0 and D > 7:
+d = int(input("digite um número: "))
+if d < 0 and d > 7:
     print("número invalido")
-elif D == 1:
+elif d == 1:
     print("Segunda-feira")
-elif D == 2:
+elif d == 2:
     print("Terça-feira")
-elif D == 3:
+elif d == 3:
     print("Quarta-feira")
-elif D == 4:
+elif d == 4:
     print("Quinta-feira")
-elif D == 5:
+elif d == 5:
     print("Sexta-feira")
-elif D == 6:
+elif d == 6:
     print("Sabado")
-elif D == 7:
-    print("Domingo")
+elif d == 7:
+    print("domingo")
+
+# corrigido
