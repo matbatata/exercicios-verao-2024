@@ -10,3 +10,5 @@ while contador <= x:
     div+=1
 
 print("Soma:", soma)
+
+# corrigido
