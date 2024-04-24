@@ -9,7 +9,7 @@ while True:
     if escolha == 5:
         print("Saindo da calculadora")
         break
-    elif escolha in ("1,2,3,4"):
+    elif escolha in ("1,2,3,4"): # Não ensinei isso...
         x = int(input("Digite um número: "))
         z = int(input("Digite mais um número: "))
     elif escolha == 1:
@@ -20,6 +20,7 @@ while True:
         print(x,"*",z = x*z)
     elif escolha == 4:
         print(x,"/",z = x/z)
+        # falta um IF aqui... 
     else:
         print("Escolha invalida ")
 
