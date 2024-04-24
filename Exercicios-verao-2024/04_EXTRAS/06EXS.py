@@ -9,3 +9,5 @@ elif n % 2 == 0:
 else:
     print("Impar")
 i+=1
+
+#arrumar
