@@ -11,3 +11,5 @@ while True:
     elif s == 14:
         print("Está perto")   
 print("O número secreto é:",s)  
+
+# Foi coirrigido no servidor... Rever e colocar o certo
