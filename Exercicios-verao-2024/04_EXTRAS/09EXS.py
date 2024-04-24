@@ -9,6 +9,6 @@ while True:
         contador_positivo+=1 # não era para contar os negativos?
     elif x > 0:
         print(x,"É positivo")
-        contador_positivo+=1 # não era para contar os negativos?
+        contador_positivo+=1 # não era para contar os positivos?
 
 # falta uma mensagem final mostrando quantos números positivos, negativos tiveram...
