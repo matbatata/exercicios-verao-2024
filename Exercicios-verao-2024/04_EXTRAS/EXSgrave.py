@@ -13,4 +13,7 @@ pg = -11
 nr = round(nm1*nm2*ng/pow(nd,2),2)
 pr = pm1+pm2+pg-pd*2
 
-print("A força gravitacional entre os corpos é: ", nr , "x10^", pr, "N")
+if nm1 <0 or nm2  < 0:
+    print("Número inválido. Não existe massa negativa.")
+else:
+    print("A força gravitacional entre os corpos é: ", nr , "x10^", pr, "N", sep='')
