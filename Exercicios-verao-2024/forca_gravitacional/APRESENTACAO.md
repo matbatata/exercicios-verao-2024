@@ -36,6 +36,4 @@ Para utilizar este código, simplesmente insira os valores de massa e distância
 3. Forneça os valores solicitados quando promovido.
 4. Observe os resultados na saída do console.
 
-# 🙌 Feito por
-- [@lucasamtaylor01](https://github.com/lucasamtaylor01)
-- [@matbatata](https://github.com/matbatata)
+🙌 Feito por [@lucasamtaylor01](https://github.com/lucasamtaylor01) e [@matbatata](https://github.com/matbatata)
