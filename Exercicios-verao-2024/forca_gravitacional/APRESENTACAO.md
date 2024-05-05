@@ -37,5 +37,5 @@ Para utilizar este código, simplesmente insira os valores de massa e distância
 4. Observe os resultados na saída do console.
 
 # 🙌 Feito por
-- [@lucasamtaylor](https://github.com/lucasamtaylor)
+- [@lucasamtaylor01](https://github.com/lucasamtaylor01)
 - [@matbatata](https://github.com/matbatata)
