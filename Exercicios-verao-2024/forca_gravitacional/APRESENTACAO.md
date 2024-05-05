@@ -22,7 +22,7 @@ F = G \frac{m_1 m_2}{d^2}
 # 📜 Resultado e Exibição
 
 - O resultado é arredondado para duas casas decimais e ajustado para a potência de dez apropriada.
-- Se uma das massas ou a distância for negativa, será exibida uma mensagem de erro indicando que massa negativa não é válida 🚫.
+- Se uma das massas ou a distância for negativa, será exibida uma mensagem de erro indicando que massa negativa é inválida 🚫.
 - A força calculada é exibida no formato `nr x 10^{pr} N`.
 
 # ✅ Uso Prático
