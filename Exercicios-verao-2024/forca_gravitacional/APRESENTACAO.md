@@ -4,8 +4,8 @@ Este código calcula a força gravitacional entre dois corpos com base na Lei da
 
 ## 📥 Entrada de Dados
 
-- **Massa do corpo 1** (`m1`) e **potência de dez** (`10^{pm1}`) 🏋️‍♂️.
-- **Massa do corpo 2** (`m2`) e **potência de dez** (`10^{pm2}`) 🏋️‍♀️.
+- **Massa do corpo 1** (`m1`) e **potência de dez** (`10^{pm1}`) 🪐.
+- **Massa do corpo 2** (`m2`) e **potência de dez** (`10^{pm2}`) 🌎.
 - **Distância entre os corpos** (`d`) e **potência de dez** (`10^{pd}`) 📏.
 
 ## 🔢 Constantes
