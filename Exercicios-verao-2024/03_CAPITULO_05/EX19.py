@@ -6,3 +6,5 @@ while den <= 55:
     num+=2
     den+=1
 print(soma)
+
+# corrigido
