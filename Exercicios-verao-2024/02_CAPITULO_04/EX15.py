@@ -13,3 +13,5 @@ while True:
         print("Valor de x2:", x2)
     else:
         print("Esta equação não possui raízes reais.")
+
+#corrigido
