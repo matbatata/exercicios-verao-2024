@@ -8,3 +8,5 @@ while True:
             menor = n
     print("O maior número é: ",maior)
     print("O menor número é: ",menor)
+
+# Não funciona :(, você deve definir maior e menor antes de usá-los
