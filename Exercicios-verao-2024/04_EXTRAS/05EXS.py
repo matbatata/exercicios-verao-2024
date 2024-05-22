@@ -7,3 +7,5 @@ while True (potencia <= 5):
     if (x // pow(10,2)):
         print(potencia)
 print(x = resto)
+
+# O que você queria fazer aqui? Não rodou
