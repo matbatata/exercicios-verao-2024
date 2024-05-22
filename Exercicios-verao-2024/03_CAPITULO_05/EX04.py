@@ -5,3 +5,5 @@ while contador < 5:
         print(numero)
         contador += 1
     numero += 1
+
+# corrigido
