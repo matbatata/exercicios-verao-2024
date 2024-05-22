@@ -1,6 +1,9 @@
-a = float(input("Digite sua nota de inglês: "))
-b = float(input("Digite sua nota de portugues: "))
-c = float(input("Digite um numero: "))
-d = float(input("Digite um numero: "))
+a = float(input("Digite um número: "))
+b = float(input("Digite um número: "))
+c = float(input("Digite um número: "))
+d = float(input("Digite um número: "))
 soma = a+b+c+d 
-print(soma / 5)
+
+print("Média: ", soma / 5)
+
+# Corrigido
