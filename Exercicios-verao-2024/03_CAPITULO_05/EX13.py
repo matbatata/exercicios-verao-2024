@@ -6,3 +6,5 @@ while x <= 1000:
     elif x % 5 == 0:
         soma+=x
     x+=1
+
+# não está mostrando os números...
