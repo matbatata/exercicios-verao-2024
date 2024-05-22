@@ -4,10 +4,10 @@ while True:
     b = float(input("Entre com o valor de b: "))    
     c = float(input("Entre com o valor de c: "))
     
-    D = b**2 - 4*a*c  
-    if D >= 0:
-        x1 = (-b + D**(1/2)) / (2*a)
-        x2 = (-b - D**(1/2)) / (2*a)
+    delta = b**2 - 4*a*c  
+    if delta >= 0:
+        x1 = (-b + delta**(1/2)) / (2*a)
+        x2 = (-b - delta**(1/2)) / (2*a)
 
         print("Valor de x1:", x1)
         print("Valor de x2:", x2)
