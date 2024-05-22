@@ -4,4 +4,4 @@ while i<=soma:
     print(i)
     i+=2
 
-#corrigido!
+# cade a soma?

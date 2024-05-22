@@ -5,5 +5,3 @@ while contador < n:
     print(numero_impar)
     contador += 1
     numero_impar += 2
-
-# corrigido

@@ -5,5 +5,3 @@ while contador < 10:
     soma += numero
     contador += 1
 print("A soma dos números digitados é:", soma)
-
-#corrigido

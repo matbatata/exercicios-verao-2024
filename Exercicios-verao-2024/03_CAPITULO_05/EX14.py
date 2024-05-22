@@ -18,4 +18,3 @@ else:
         contador+=1
 
     print("O valor da sequência de Fibonacci é:", k)
-#corrigido em aula

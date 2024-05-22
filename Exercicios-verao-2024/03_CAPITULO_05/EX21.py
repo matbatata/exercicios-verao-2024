@@ -13,5 +13,4 @@ else:
         elif n == mn:
             oc+=1
         contador+=1
-
-# falta imprimir reposta
+print(n)

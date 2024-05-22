@@ -5,5 +5,3 @@ while i <= n:
     numero_harmonico += 1 / i
     i += 1
 print(numero_harmonico)
-
-#corrigido em aula
