@@ -11,4 +11,4 @@ while contador <= 10:
 media = soma / 10
 print("A média é ", media)
 
-#corrigido pelo mat
+#corrigido
