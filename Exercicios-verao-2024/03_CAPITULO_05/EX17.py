@@ -10,3 +10,4 @@ while linha <= n:
         coluna += 1
     print()
     linha += 1
+#corrigido pelo mat(exercício dificil do caramba)
