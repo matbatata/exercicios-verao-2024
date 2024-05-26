@@ -1,1 +1,1 @@
-# exercicios-verao-2024
+# Exercícios do primeiro semestre de 2024
