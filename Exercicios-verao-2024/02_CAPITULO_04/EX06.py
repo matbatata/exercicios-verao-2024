@@ -11,4 +11,4 @@ elif p == 1:
 elif p == 2:
   print(mulheres)
 
-#corrigido pelo mat
+#arrumar tópicos abordados no discord
