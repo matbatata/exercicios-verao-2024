@@ -13,7 +13,7 @@ else:
     menor = n
 
     while True:
-        n = int(input("Digite um número inteiro (ou um número negativo para parar): "))
+        n = int(input("Digite um número inteiro (para parar, insira um número negativo): "))
         if n < 0:
             break
         if n > maior:
