@@ -1,7 +1,8 @@
-soma = 50
+maximo = 50
 i = 0
-while i<=soma:
+while i<=maximo:
     print(i)
     i+=2
+print("Fim")
 
-# cade a soma?
+#corrigido pelo mat
