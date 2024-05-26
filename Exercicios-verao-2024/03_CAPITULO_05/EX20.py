@@ -8,4 +8,5 @@ while i >= 1:
 
 print("O fatorial de", n, "é", fat)
 
-#corrido pelo mat (esse foi um pouco dificil)
+# Você não colocou a soma.
+# Não precisa fazer, faremos de um jeito diferente em sala... 
