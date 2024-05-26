@@ -12,3 +12,4 @@ while linha <= n:
     linha += 1
 
 # está errado, a solução está no disc :D. Fizemos em aula
+# mas valeu a tentativa. Prefiro que você erre tentando doq copiar a resposta sem pensar 
