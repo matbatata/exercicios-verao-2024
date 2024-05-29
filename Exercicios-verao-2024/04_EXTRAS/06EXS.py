@@ -1,15 +1,16 @@
 i = 0
-n = int(input("Digite um numero: "))
+n = int(input("Digite um número: "))
 
 while True:
-    # falta alguma coisa aqui
-    break #não
-if n == 0:
-    print("Erro") # arrumar esta condição
-elif n % 2 == 0:
+    if n == 0:
+        print("Erro")
+    elif n % 2 == 0:
         print("Par")
-else:
-    print("Impar")
-i+=1 # o que o i está fazendo?
+    else:
+        print("Ímpar")
+    i += 1
+    break
 
-#arrumar
+print("O loop foi executado", i, "vezes.")
+
+#corrigido pelo mat
