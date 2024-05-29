@@ -1,15 +1,18 @@
 import random
-while True:
-    s = int(input("Descubra o número secreto: "))
-    x = random.randint(1,100)
-    if s == 15:
-        break 
-    elif s > 15:
-        print("Maior do que o número secreto")
-    elif s < 15:
-        print("Menor do que o número secreto")
-    elif s == 14:
-        print("Está perto")   
-print("O número secreto é:",s)  
+numero_secreto = random.randint(1,100)
 
-# Foi coirrigido no servidor... Rever e colocar o certo
+while True:
+    s = int(input("Descubra o número secreto: ")) 
+
+    if s == numero_secreto: 
+        break 
+    elif s ==  numero_secreto+1 or s == numero_secreto-1: 
+        print("Está perto")
+    elif s > numero_secreto:
+        print("Maior do que o número secreto")
+    elif s < numero_secreto:
+        print("Menor do que o número secreto")
+    
+
+print("O número secreto é: ",s)  
+#corrigido pelo mat
