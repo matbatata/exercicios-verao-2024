@@ -1,11 +1,11 @@
 x = int(input("Digite um número: "))
-resto = 0
 potencia = 0
-while potencia <= 5:
-    print(x // pow(10, potencia))
-    potencia += 1
-    if potencia == 2:
-        print(potencia)
-print(resto)
 
-# o que era pra isso fazer?
+while potencia <= 5:
+    # Calcula o dígito atual
+    digito = (x // pow(10, potencia)) % 10
+    print(digito)
+    potencia += 1
+
+# Se quiser imprimir o valor de potencia ao final do loop, faça isso fora do loop
+print("Potência final:", potencia)
