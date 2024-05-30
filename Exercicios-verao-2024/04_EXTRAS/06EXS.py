@@ -13,4 +13,8 @@ while True:
 
 print("O loop foi executado", i, "vezes.")
 
-#corrigido pelo mat
+"""
+1. O que era para esse código fazer?
+2. Sempre vai aparecer que o loop foi executado uma vez
+3. Acredito que falta pedir em cada iteração do loop para o usuário digitar um número
+"""
