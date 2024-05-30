@@ -27,4 +27,4 @@ while True:
     else:
         print("Escolha inválida")
 
-#corrigido pelo mat
+#corrigido
