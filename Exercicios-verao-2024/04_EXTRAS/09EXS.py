@@ -15,4 +15,4 @@ while True:
 print("Total de números positivos:", contador_positivo)
 print("Total de números negativos:", contador_negativo)
 
-#corrigido pelo mat
+#corrigido 
