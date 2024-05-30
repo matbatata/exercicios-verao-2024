@@ -15,4 +15,4 @@ while True:
     
 
 print("O número secreto é: ",s)  
-#corrigido pelo mat
+#corrigido
