@@ -8,4 +8,4 @@ while potencia <= 5:
         print(potencia)
 print(resto)
 
-#corrigido pelo mat
+# o que era pra isso fazer?
