@@ -1,5 +1,5 @@
-km = float(input("Digite uma distância em quilômetros: "))
-ms = km * 1000 / 36
-print(km, "quilômetros são equivalentes a", ms, "metros.")
+km = float(input("Digite a velocidade em quilômetros por hora (km/h): "))
+ms = km / 3.6
+print("A velocidade em metros por segundo (m/s) é:", ms)
 
-# arrumar
+#corrigido pelo mat
