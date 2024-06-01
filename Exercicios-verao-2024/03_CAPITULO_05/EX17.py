@@ -1,15 +1,15 @@
-n = int(input("Digite o número de linhas para o triângulo de Floyd: "))
-linha = 1
-num = 1
+numero_de_linhas = int(input("Número de linhas é: "))
+linha_atual = 1
+cota = 0
+elemento = 1
 
-while linha <= n:
-    coluna = 1
-    while coluna <= linha:
-        print(num)
-        num += 1
-        coluna += 1
-    print()
-    linha += 1
+while linha_atual < numero_de_linhas:
+    print(elemento, end=' ')
+    elemento+=1
+    cota+=1
+    if linha_atual == cota:
+        print()
+        linha_atual+=1
+        cota = 0
 
-# está errado, a solução está no disc :D. Fizemos em aula
-# mas valeu a tentativa. Prefiro que você erre tentando doq copiar a resposta sem pensar 
+#feito em aula 
