@@ -16,5 +16,4 @@ while True:
 
 print("O loop foi executado", i, "vezes.")
 
-#Agora o código está certo
-#Um código de impar ou par com loop
+# corrigido
