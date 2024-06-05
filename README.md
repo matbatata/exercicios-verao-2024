@@ -35,6 +35,6 @@ Feito por [@matbatata](https://github.com/matbatata), o qual desejo todo o suces
 
 Orientado por [@lucasamtaylor01](https://github.com/lucasamtaylor01).
 
-> "Dê-me uma alavanca e um ponto de apoio e levantarei o mundo"
+> "*Dê-me uma alavanca e um ponto de apoio e levantarei o mundo*"
 > 
 > — Arquimedes
