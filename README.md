@@ -33,8 +33,8 @@ Estes exercícios marcaram o primeiro contato do colaborador com a programação
 
 Feito por [@matbatata](https://github.com/matbatata), o qual desejo todo o sucesso e sinceros parabéns. 💛
 
-Orientado por [@lucasamtaylor01](https://github.com/lucasamtaylor01).
-
 > "*Dê-me uma alavanca e um ponto de apoio e levantarei o mundo*"
 > 
 > — Arquimedes
+
+Orientado por [@lucasamtaylor01](https://github.com/lucasamtaylor01).
